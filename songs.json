@@ -1,0 +1,130 @@
+{
+  "songs": [ 
+    {
+      "bg": "#fb1b93",
+      "artist": "Rito Riba",
+      "songName": "Heera Ranjha",
+      "files": {
+        "song": "/assets/Songs/heerranjha.m4a",
+        "cover": "https://c.saavncdn.com/307/Heer-Ranjha-Hindi-2022-20221018213054-500x500.jpg"
+      }
+    },
+    {
+      "bg": "#781bfb",
+      "artist": "KK & Pritam",
+      "songName": "Dil Ibadat",
+      "files": {
+        "song": "/assets/Songs/dilibadat.mp3",
+        "cover": "https://c.saavncdn.com/653/Dil-Ibadat-Hindi-2022-20220729121512-500x500.jpg"
+      }
+    },
+    {
+      "bg": "#f08131",
+      "artist": "Talwiinder",
+      "songName": "Khayaal",
+      "files": {
+        "song": "/assets/Songs/khayaal.m4a",
+        "cover": "https://c.saavncdn.com/406/Khayaal-Hindi-2020-20200629103636-500x500.jpg"
+      }
+    },
+    {
+      "bg": "#b0c9d0",
+      "artist": "Neeraj Verma",
+      "songName": "Mai Agar Kahoon",
+      "files": {
+        "song": "/assets/Songs/maiagarkahoon.mp3",
+        "cover": "https://i1.sndcdn.com/artworks-wGjy1fPaG7wWLswR-2MgFqA-t500x500.jpg"
+      }
+    },
+    {
+      "bg": "#c3f788",
+      "artist": "Javed Bashir",
+      "songName": "Mera yaar",
+      "files": {
+        "song": "/assets/Songs/merayaar.mp3",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/da/3d/71/da3d712a-3722-d031-294d-c2dcb46803d3/886444023559.jpg/1200x1200bf-60.jpg"
+      }
+    },
+    {
+      "bg": "#f35d76",
+      "artist": "Mohit Chauhan",
+      "songName": "Rang Lageya",
+      "files": {
+        "song": "/assets/Songs/ranglageya.mp3",
+        "cover":""
+      }
+    },
+    {
+      "bg": "#f22778",
+      "artist": "Pritam & Jubin Nautiyal",
+      "songName": "Shayad",
+      "files": {
+        "song": "/assets/Songs/shayad.mp3",
+        "cover": "https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-500x500.jpg"
+      }
+    },
+    {
+      "bg": "#654fb5",
+      "artist": "Mohit Lalwani",
+      "songName": "Tum prem ho",
+      "files": {
+        "song": "/assets/Songs/tumpremho.mp3",
+        "cover": "https://i1.sndcdn.com/artworks-oKi9Tlogaflj4u6i-YeF5tQ-t500x500.jpg"
+      }
+    },
+    {
+      "bg": "#74afe3",
+      "artist": "Ed Sheeran",
+      "songName": "Perfect",
+      "files": {
+        "song": "/assets/Songs/perfect.mp3",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/8/80/Ed_Sheeran_Perfect_Single_cover.jpg"
+      }
+    },
+    {
+      "bg": "#f344b0",
+      "artist": "Harleys In Hawaii",
+      "songName": "You and I",
+      "files": {
+        "song": "/assets/Songs/you&I.m4a",
+        "cover": "https://i1.sndcdn.com/artworks-000527715585-zsipua-t500x500.jpg"
+      }
+    },
+    {
+      "bg": "#22e1ff",
+      "artist": "Parjanya Kumar Arya",
+      "songName": "Happy Birthday Sammy",
+      "files": {
+        "song": "/assets/Songs/birthday.wav",
+        "cover": ""
+      }
+    },
+    {
+      "bg": "#6bf73c",
+      "artist": "One Direction",
+      "songName": "You and I",
+      "files": {
+        "song": "/assets/Songs/oneDyou&i.mp3",
+        "cover": "https://images.genius.com/bb5fda9873d8a46dbfeedb5b1dc83c1a.953x953x1.jpg"
+      }
+    },
+    {
+      "bg": "#38d9e8",
+      "artist": "AUR",
+      "songName": "Tu hai Kahan",
+      "files": {
+        "song": "/assets/Songs/tuhaikahan.mp3",
+        "cover": "/assets/Songs/hqdefault.jpg"
+      }
+    },
+    {
+      "bg": "#bab022",
+      "artist": "Arjit Singh",
+      "songName": "Tere Hawale",
+      "files": {
+        "song": "/assets/Songs/terehawale.mp3",
+        "cover": "https://c.saavncdn.com/119/Tere-Hawaale-From-Laal-Singh-Chaddha-Hindi-2022-20220804093945-500x500.jpg"
+      }
+    }
+  ]
+}
